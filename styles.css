@@ -1,2 +1,27 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */ 
+body { 
+	display: flex; 
+	justify-content: center; 
+	align-items: center; 
+	height: 100vh; 
+	margin: 0; 
+	background-color: #f8fffe 
+} 
+
+main.accio#job { 
+	width: 150px; 
+	height: 150px; 
+	background-color: #000000; 
+	display: flex; 
+	justify-content: center;
+    align-items: center;
+} 
+
+p.hello-accio {
+    color: #ffffff;
+    margin-left: 32px;
+    padding: 10px;
+}
+
+	
